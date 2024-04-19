@@ -1,7 +1,6 @@
-# untitled
+# Veepee
 
-A new Flutter project.
-
+Développement d'une application mobile se basant sur l'application de "Veepee".
 ## Getting Started
 
 This project is a starting point for a Flutter application.
